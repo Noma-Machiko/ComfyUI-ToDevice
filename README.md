@@ -1,7 +1,9 @@
 # ComfyUI-ToDevice
 
 ComfyUI 用のシンプルなデバイス変換ノード集です。
+
 GPUで実行されているimageノードを、CPUへ移動させます。
+
 CPUからGPUの移動も対応していますが、ComfyUIの起動オプションからCPUを消去してください。
 
 
