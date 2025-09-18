@@ -35,5 +35,5 @@ CPUからGPUの移動も対応していますが、ComfyUIの起動オプショ�
 bash
 ```
 cd ComfyUI/custom_nodes
-git clone https://github.com/yourname/ComfyUI-ToDevice.git
+git clone https://github.com/Noma-Machiko/ComfyUI-ToDevice.git
 ```
