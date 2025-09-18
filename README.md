@@ -30,11 +30,8 @@ CPUからGPUの移動も対応していますが、ComfyUIの起動オプショ�
    　　　　　　　→「CPUで実行されるノード」
 ```
 
-
-```bash
-
+bash
+```
 cd ComfyUI/custom\_nodes
 git clone https://github.com/yourname/ComfyUI-ToDevice.git
-
-
-
+```
